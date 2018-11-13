@@ -1,0 +1,26 @@
+.main {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.superman {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: url(../img/superman.gif);
+}
+
+.webpack {
+    width: 600px;
+    height: 240px;
+    margin: 0 auto;
+    background: url(../img/webpack.png);
+    background-size: 100% 100%;
+}
+
+.hello{
+    width: 16px;
+    height: 16px;
+    background: url(../img/hello_1.png);
+}
